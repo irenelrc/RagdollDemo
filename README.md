@@ -58,4 +58,4 @@ Android SDK: API 28.
 
 
 ### /******************** Demo gif ********************/
-![Ragdoll Demo](demo.gif)
+![Ragdoll Demo](ragdoll.gif)
